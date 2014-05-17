@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: d548f93ec70f5ab4892941c0d82a86b5
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - floorPrefab: {fileID: 100000, guid: 14e7433ef60b79e4cb7b62689a8c5a32, type: 2}
+  - wallPrefab: {fileID: 100000, guid: 16bf188d200b9ab48b6f1dfc16a8b976, type: 2}
+  - playerPrefab: {fileID: 100002, guid: 9d4133d5d30b644bd87802a347eaccbe, type: 2}
+  - mushroomPrefab: {fileID: 100000, guid: 688388e6e8eb613419a8798ba08d17f2, type: 2}
+  - coinPrefab: {fileID: 100000, guid: d343dcdcf44088b45951525d50ac33b5, type: 2}
+  - hallPrefab: {fileID: 100000, guid: d85299c1a7fb8e0439b218a4d2d20465, type: 2}
+  - crossPrefab: {fileID: 100000, guid: a1b42c86052810c4ebe47b8fc4a6de27, type: 2}
+  - turnPrefab: {fileID: 100000, guid: 2b006be6194110449a01b54ea98b7f39, type: 2}
+  - teePrefab: {fileID: 100000, guid: fd49fed5fe5402a41b6a6321d9e03d9e, type: 2}
+  - endPrefab: {fileID: 100000, guid: f38205bd6a9234a4d95cb43d324c50cd, type: 2}
+  - ghouliePrefab: {fileID: 100000, guid: 909fe2372eb95924096da76fccd60251, type: 2}
+  - edgePrefab: {fileID: 100000, guid: ec9c00b96c757e44ba3b35f3c502bf0b, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

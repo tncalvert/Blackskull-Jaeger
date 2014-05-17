@@ -1,0 +1,124 @@
+fileFormatVersion: 2
+guid: 101b905440fc23e46ab0c5afc0e8680a
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: ciel1
+    100002: hall_group3
+    100004: hall_group4
+    100006: hall_group5
+    100008: hall_pCube2
+    100010: hall_pCube3
+    100012: hall_pCube4
+    100014: hall_polySurface1
+    100016: pasted__ciel1
+    100018: pasted__group
+    100020: pasted__group 1
+    100022: pasted__group6
+    100024: pasted__group7
+    100026: pasted__pasted__group2
+    100028: pasted__pasted__group6
+    100030: pasted__pasted__group7
+    100032: pasted__pasted__pasted__group
+    100034: pasted__pasted__pasted__group2
+    100036: pasted__pasted__pasted__pasted__group
+    100038: pasted__pasted__pasted__pCube3
+    100040: pasted__pasted__pCube3
+    100042: polySurface11
+    100044: transform1
+    100046: transform2
+    100048: transform35
+    100050: transform36
+    100052: transform37
+    100054: transform38
+    100056: transform39
+    100058: transform40
+    100060: //RootNode
+    400000: ciel1
+    400002: hall_group3
+    400004: hall_group4
+    400006: hall_group5
+    400008: hall_pCube2
+    400010: hall_pCube3
+    400012: hall_pCube4
+    400014: hall_polySurface1
+    400016: pasted__ciel1
+    400018: pasted__group
+    400020: pasted__group 1
+    400022: pasted__group6
+    400024: pasted__group7
+    400026: pasted__pasted__group2
+    400028: pasted__pasted__group6
+    400030: pasted__pasted__group7
+    400032: pasted__pasted__pasted__group
+    400034: pasted__pasted__pasted__group2
+    400036: pasted__pasted__pasted__pasted__group
+    400038: pasted__pasted__pasted__pCube3
+    400040: pasted__pasted__pCube3
+    400042: polySurface11
+    400044: transform1
+    400046: transform2
+    400048: transform35
+    400050: transform36
+    400052: transform37
+    400054: transform38
+    400056: transform39
+    400058: transform40
+    400060: //RootNode
+    2300000: polySurface11
+    3300000: polySurface11
+    4300000: polySurface11
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  userData: 
